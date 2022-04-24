@@ -1,7 +1,7 @@
-# Getting started with the Biochemistry Analyzer from China Care Medical 
+# Getting started with the Biochemistry Analyzer CCL-210 from China Care Medical 
 
-This is a guide to get started with the Full Automated Benchtop Clinical Blood Chemistry Biochemistry Analyzer from China Care Medical. 
-You can expect a clear guide on how to:
+This is a guide to get started with the equipement. It also helps to ensure that the software and the equipment is working as expected. 
+In this tutorial you can expect a clear guide on how to:
 
 - Prepare your working environment 
 - Connect the equipment to your computer and other cable and pipes
@@ -57,9 +57,53 @@ https://user-images.githubusercontent.com/55901714/164883601-981ad10b-4503-4365-
 
 Make sure that your computer has a 9 point plug port. We recommend that you do not connect to power source until all the set up is done.
 
-## Getting your ready to intall the software
+## Getting your System ready to install the software and run it
 
-Here we're going to setup our Windows system ready for the Biochemistry Analyzer software. We're going to make sure that we have a partition dedicated for our program, add the :D drive to Windows Firewall whitelist, change the Current System Language to Chinese(simplified), download and copy the Auto Chemistry Analyzer [software] (Auto Chemistry Analyzer-210 (1) (1).rar), copy the software to the firewall whitelisted drive, and unzip the file.
+Here we're going to setup our Windows system to make it ready for the Biochemistry Analyzer software by: 
+
+- Creating or making sure that we have a partition dedicated for our program
+- Add the D: drive to Windows Firewall whitelist
+- Change the Current System Language to Chinese(simplified) and change the time zone
+- Download and copy the Auto Chemistry Analyzer [software] (Auto Chemistry Analyzer-210 (1) (1).rar) 
+- Copy the software to the :D drive or the drive that is in th firewall whitelisted
+- Unzip the file and Run the software
+
+#### Create partition
+We recommend that you create a dedicated partition for this software because the software won't work if the drive is not in the firewall whitelist. You can deactivate the security of the system or put the system drive (C:) in the whitelist but that will make your system vulnerable to virus attacks and we do not recommend doing that.
+
+If you already have a D: drive skip this step. 
+
+![image](https://user-images.githubusercontent.com/55901714/164978318-b4c44293-7a58-4c21-be1f-d3a626a2a8b9.png)
+
+
+
+
+
+If you do not have a partitioned drive, please watch the tutorial below on how to partition a :C drive and create a :D drive.
+
+[how to partition disk in windows 10](https://www.youtube.com/watch?v=wQQ-ohOdcZU)
+
+
+
+
+### Add the D: drive to Windows Firewall whitelist
+From your desktop click on Start and 
+- Change the Current System Language to Chinese(simplified) and change the time zone
+- Download and copy the Auto Chemistry Analyzer [software] (Auto Chemistry Analyzer-210 (1) (1).rar) 
+- Copy the software to the :D drive or the drive that is in th firewall whitelisted
+- Unzip the file and Run the software
+
+
+
+
+```
+The letter that identify the drive doesn't matter as long as it is not the main drive. 
+It could be   D: ,  E:  ,  F: , etc..
+```
+
+
+
+
 
 
 
