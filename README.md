@@ -4,9 +4,9 @@ This is a guide to get started with the equipement. It also helps to ensure that
 In this tutorial you can expect a clear guide on how to:
 
 - Prepare your working environment 
-- Connect the equipment to your computer and other cable and pipes
+- Connect the equipment to your computer and other cables and pipes
 - Setting up your Windows system 
-- Installing the main Software and setting up
+- Installing the main Software and setting it up
 - Placing the Reagent and Sample on the wheel
 
 
@@ -104,7 +104,14 @@ From your desktop click on Start and
 - Unzip the file and Run the software
 
 
-### Change the Current System Language to Chinese(simplified) and change the time zone
+### Change the Current System Local Language to Chinese(simplified) 
+
+Check out this [tutorial](https://www.tenforums.com/tutorials/132050-change-system-locale-windows-10-a.html#:~:text=The%20system%20locale%20controls%20the,that%20do%20not%20support%20Unicode.) for a step by step guide.
+
+
+From your Destop search in the search bar `control panel` ---> Go to `Clock and Region` ---> Go to `Region` ---> navigate to `Administrator` Tab on the top most bar ---> Click on `Change System Locale ---> Under `Current System Locale`, drop down the list and select `Chinese (Simplified, China)` Click `OK` and Restart your computer.
+
+
 
 
 
