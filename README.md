@@ -56,11 +56,14 @@ Download main software [here](Auto Chemistry Analyzer-210 (1) (1).rar)
 https://user-images.githubusercontent.com/55901714/164883601-981ad10b-4503-4365-b261-74b651775aff.mp4
 
 Make sure that your computer has a 9 point plug port. We recommend that you do not connect to power source until all the set up is done.
-- Get the pow
+
+## Getting your ready to intall the software
+
+Here we're going to setup our Windows system ready for the Biochemistry Analyzer software. We're going to make sure that we have a partition dedicated for our program, add the :D drive to Windows Firewall whitelist, change the Current System Language to Chinese(simplified), download and copy the Auto Chemistry Analyzer [software] (Auto Chemistry Analyzer-210 (1) (1).rar), copy the software to the firewall whitelisted drive, and unzip the file.
 
 
 
-
+Unzip or extract the file using any .rar or .zip file extrator you can [download a free winrar here](https://www.win-rar.com/predownload.html?&L=0)
 
 
 
