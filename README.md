@@ -86,12 +86,25 @@ If you do not have a partitioned drive, please watch the tutorial below on how t
 
 
 
-### Add the D: drive to Windows Firewall whitelist
+### Add the D: or the partitioned drive to Windows Firewall whitelist 
+
+From your desktop in the windows search box type Windows security select the first result ----> virus & threat protection ---> Manage settings ----> Under `Exclusions` type Add or remove exclusions ---> (accept if prompt for admin permissio) ---> 'Add an exclusion` ---> `Folder` ---> Navigate to the drive (partitioned) select it and `select folder` to confirm the entry. 
+
+Congratulations, you just made your drive vulnerable 😊 
+
+
+![windows_whitelist](https://user-images.githubusercontent.com/55901714/164981728-9fd6cfbd-4149-41b8-9e39-7c94e64b4f6b.gif) 
+
+Your system might be different from the one in the above example, feel free to search on google for your particular system.
+
 From your desktop click on Start and 
 - Change the Current System Language to Chinese(simplified) and change the time zone
 - Download and copy the Auto Chemistry Analyzer [software] (Auto Chemistry Analyzer-210 (1) (1).rar) 
 - Copy the software to the :D drive or the drive that is in th firewall whitelisted
 - Unzip the file and Run the software
+
+
+### Change the Current System Language to Chinese(simplified) and change the time zone
 
 
 
@@ -108,6 +121,7 @@ It could be   D: ,  E:  ,  F: , etc..
 
 
 Unzip or extract the file using any .rar or .zip file extrator you can [download a free winrar here](https://www.win-rar.com/predownload.html?&L=0)
+ 
 
-
+- Download and copy the Auto Chemistry Analyzer [software] (Auto Chemistry Analyzer-210 (1) (1).rar) - Copy the software to the :D drive or the drive that is in th firewall whitelisted - Unzip the file and Run the software Unzip or extract the file using any .rar or .zip file extrator you can [download a free winrar here](https://www.win-rar.com/predownload.html?&L=0)
 
