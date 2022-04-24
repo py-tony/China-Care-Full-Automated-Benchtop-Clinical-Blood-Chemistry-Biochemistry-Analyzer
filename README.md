@@ -92,7 +92,7 @@ From your desktop in the windows search box type Windows security select the fir
 
 Congratulations, you just made your drive vulnerable 😊 
 
-
+Demo:
 ![windows_whitelist](https://user-images.githubusercontent.com/55901714/164981728-9fd6cfbd-4149-41b8-9e39-7c94e64b4f6b.gif) 
 
 Your system might be different from the one in the above example, feel free to search on google for your particular system.
@@ -119,30 +119,51 @@ From your Destop search in the search bar `control panel` ----> Go to `Clock and
 
 Now we're almost there. We need now to put the software in the drive that we just prepared, Unzip it and Run the Program.
 
-Download the software [here] (Auto Chemistry Analyzer-210 (1) (1).rar)[Uploading Auto Chemistry Analyzer-210 (1) (1).rar…]()
+#### Step one: 
+Download the software [here](https://github.com/py-tony/China-Care-Full-Automated-Benchtop-Clinical-Blood-Chemistry-Biochemistry-Analyzer-/raw/main/Auto%20Chemistry%20Analyzer-210%20(1)%20(1).rar).
 
+#### Step two
+Copy the software to the :D drive or the drive that you just put in the firewall whitelist.
 
-Copy the software to the :D drive or the drive that is in th firewall whitelisted - Unzip the file and Run the software Unzip or extract the file using any .rar or .zip file extrator you can [download a free winrar here](https://www.win-rar.com/predownload.html?&L=0)
-
-### Download and copy the Auto Chemistry Analyzer [software](Auto Chemistry Analyzer-210 (1) (1).rar) 
-
-
-
-
-
-```
-The letter that identify the drive doesn't matter as long as it is not the main drive. 
-It could be   D: ,  E:  ,  F: , etc..
-```
-
-
-
-
-
-
-
+#### Step Three
 Unzip or extract the file using any .rar or .zip file extrator you can [download a free winrar here](https://www.win-rar.com/predownload.html?&L=0)
- 
 
-- 
+
+Demo:
+![copy_unzip](https://user-images.githubusercontent.com/55901714/164985769-461643ae-bcb1-4230-b892-7147e9d35c87.gif)
+
+
+## Installing the main Software and setting it up
+
+Make sure that all the cables are connected from and to the computer.
+Open the folder that you just Extract and double click on the file named `MainSoft_V9.2.0.7.exe` or `MainSoft_V9.2.0.7`.
+
+![image](https://user-images.githubusercontent.com/55901714/164986193-f735edf9-6ab3-40c7-b070-63a00430ab2a.png)
+
+
+If you followed all the instructions above correctly the software should open up and prompt for password. Enter `123` in the password field and login.
+
+![image](https://user-images.githubusercontent.com/55901714/164986311-1078ddd3-e3e3-4979-b6c1-56929603330f.png)
+
+Congratulations! You've just made your computer ready for your Auto Biochemistry Analyzer software.
+
+![image](https://user-images.githubusercontent.com/55901714/164986510-e7bf167a-9982-4353-b121-b7fff033f57a.png)
+
+
+### Setup and Run your first test
+
+Here we have a couple of things that we need to configure before running and printing our first test.
+
+- Basic Information
+ - Hospital Info
+ - Department Info
+ - Physician Info
+
+
+
+
+
+
+
+
 
