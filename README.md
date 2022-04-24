@@ -226,17 +226,53 @@ Navigate to the `Calibration` Tab on the top most part of your app. ![image](htt
 Then go to `Calib Setup` ![image](https://user-images.githubusercontent.com/55901714/164997526-dee75891-99e0-4b73-b87f-22455b4ec983.png).
 
 On the left under `Calib Solution List`, click `New`, enter any number or test as identifier of the calibration and hit `Save`
-On your right under `Calib. Solution Concentrate` click `Modify` then double click on the concentrate field ![image](https://user-images.githubusercontent.com/55901714/164997745-6cfb19a5-db6b-4482-8667-aa7a742d7090.png)
+On your right under `Calib. Solution Concentrate` click `Modify` then double click on the concentrate field.
+
+![image](https://user-images.githubusercontent.com/55901714/164997745-6cfb19a5-db6b-4482-8667-aa7a742d7090.png)
 
 Demo:
 
 ![calib_setup](https://user-images.githubusercontent.com/55901714/164997760-dbdb2743-8bbd-4d3d-87a6-506c8a4a1d65.gif)
 
 
+### Set Location of the Reagent on the Wheel
+
+Now we need to set the location of the reagent on the to harmonize the flow of the machine. Pay close attention on the number we will select here and how we going to place the reagent and sample on the Wheel.
+
+Navigate to the `Status` Tab on the top most part of your app. ![image](https://user-images.githubusercontent.com/55901714/164998045-2567f3f3-1356-424e-8b48-d4271d0d459d.png)
+Then go to `Reagent Wheel` and find on the left side bottom part of the app `Reagent Position Setup` ![image](https://user-images.githubusercontent.com/55901714/164998185-4c0dbd17-b95b-408a-a4dc-c55e2e5b4153.png)
+
+Click on `Reagent Position Setup` highlight our reagent by pressing `Gluc` on the right located under Reagent info. 
 
 
+![reagent_wheel setup](https://user-images.githubusercontent.com/55901714/164998397-264858e1-618e-48d9-9990-1d020971fb34.gif)
 
 
+### Request Calibration Test
+
+Now we're on the final part of our mission. We're going to request the Calibration Test.
+Navigate to the `Samp. Test.` Tab on the top most part of your app ![image](https://user-images.githubusercontent.com/55901714/164998825-0427435d-140a-44e1-8882-a3d1097435a5.png).
+Then go to `Calibrated Req.`, highlight our Calib test under `Calib. Test List` by pressing on it.
+On left bottom part of the app under `Calib Solution` check ✔️ the first Calib solution, click on the drop down icon 🔽 and select the calib solution number that you entered on the Calib solution setting (mine is 123).
+
+Demo:
+![sample_req](https://user-images.githubusercontent.com/55901714/164999317-3133c466-736b-42dc-a6db-45a7b7a96929.gif)
 
 
+### Run the test and print
 
+Last but not least. We're going to Run and Print our first Test.
+Before we proceed let's first ensure that:
+1. Computer has nine-pin serial port and is connected to the Machine 💯✔️
+2. Printer ordinary A4, A5 paper printers can be used Successfully connected and installed 💯✔️
+3. Pure water (Can be barreled pure water or pure water with pure water mechanism) 💯✔️
+4. A waste tank needs to be prepared and waste pipe connected successfully💯✔️
+5. Experimental equipment (pipette gun, bullet reservoir) 💯✔️
+6. Biochemical reagents on site (Biochemical reagents must be refrigerated at 2-8 degrees) 💯✔️
+7. The tempture has reached 37 degree 💯✔️
+
+
+Fill the Triangle shapped bottle with the reagent and place it on the wheel number1 as shown on the pic and place the sample tube or cup on the sample wheel as shown bellow.
+
+
+![wheel_sample_placement](https://user-images.githubusercontent.com/55901714/165000481-7f25a96e-316a-4c42-a8df-090002a72050.jpg)
