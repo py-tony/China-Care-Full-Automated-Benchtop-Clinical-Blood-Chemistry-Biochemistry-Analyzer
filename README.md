@@ -32,7 +32,7 @@ Today we're going to have a closer look at one of their equipement I had the pri
 The tedious part about getting human blood or other body fluid samples for testing is the actual analysis of each sample to test for anomalies. Traditionally, these tests were done manually by a human technologist who carefully examined each sample for results. Over time, however, it became apparent that the task takes too much time and effort, not allowing more than a few samples to be tested and analyzed every day. That is where the Biochemistry Analyzer intervine.
 
 
-Also Known as a Full Automated Benchtop Clinical Blood Chemistry Biochemistry Analyzer, CCL-210, is a equipement used to measure the concentration of certain proteins, enzymes, electrolytes, metabolites, or even drugs in the provided samples of urine, blood, serum, plasma, or other body fluids. The machine consists of a tray where the samples are loaded to be tested. You can get a cotation or a fully live explanation of the product by a local representative [here](https://py-tony.netlify.app/contact_china_care.html#gsc.tab=0) or order directly online at [www.chinacaremedical.com](https://www.chinacaremedical.com/).
+Also Known as a Full Automated Benchtop Clinical Blood Chemistry Biochemistry Analyzer, CCL-210, is an equipement used to measure the concentration of certain proteins, enzymes, electrolytes, metabolites, or even drugs in the provided samples of urine, blood, serum, plasma, or other body fluids. The machine consists of a tray where the samples are loaded to be tested. You can get a cotation or a fully live explanation of the product by a local representative [here](https://py-tony.netlify.app/contact_china_care.html#gsc.tab=0) or order directly online at [www.chinacaremedical.com](https://www.chinacaremedical.com/).
 
 If you're already have one and struggling with installations you can get in touch with a local technicnician by filling up this [form](https://py-tony.netlify.app/contact_china_care.html#gsc.tab=0) or just by following this handy how to guide.
 
@@ -104,13 +104,27 @@ From your desktop click on Start and
 - Unzip the file and Run the software
 
 
-### Change the Current System Local Language to Chinese(simplified) 
+### Change the Current System Local Language (Unicode) to Chinese(simplified) 
+- Why do we need to do this?
+Unicode is a character encoding standard, developed by the Unicode Consortium, which defines a set of letters, numbers, and symbols that represent almost all of the written languages in the world. Its success in unifying character sets has led to widespread use in the creation of software [source](https://www.digitalcitizen.life/changing-display-language-used-non-unicode-programs/).
+
 
 Check out this [tutorial](https://www.tenforums.com/tutorials/132050-change-system-locale-windows-10-a.html#:~:text=The%20system%20locale%20controls%20the,that%20do%20not%20support%20Unicode.) for a step by step guide.
 
 
-From your Destop search in the search bar `control panel` ---> Go to `Clock and Region` ---> Go to `Region` ---> navigate to `Administrator` Tab on the top most bar ---> Click on `Change System Locale ---> Under `Current System Locale`, drop down the list and select `Chinese (Simplified, China)` Click `OK` and Restart your computer.
+From your Destop search in the search bar `control panel` ----> Go to `Clock and Region` ----> Go to `Region` ---> navigate to `Administrator` Tab on the top most bar ---> Click on `Change System Locale` ---> Under `Current System Locale`, drop down the list and select `Chinese (Simplified, China)` Click `OK` and Restart your computer.
 
+
+### Download and copy the Auto Chemistry Analyzer [software](Auto Chemistry Analyzer-210 (1) (1).rar) in the partitioned drive
+
+Now we're almost there. We need now to put the software in the drive that we just prepared, Unzip it and Run the Program.
+
+Download the software [here] (Auto Chemistry Analyzer-210 (1) (1).rar)[Uploading Auto Chemistry Analyzer-210 (1) (1).rar…]()
+
+
+Copy the software to the :D drive or the drive that is in th firewall whitelisted - Unzip the file and Run the software Unzip or extract the file using any .rar or .zip file extrator you can [download a free winrar here](https://www.win-rar.com/predownload.html?&L=0)
+
+### Download and copy the Auto Chemistry Analyzer [software](Auto Chemistry Analyzer-210 (1) (1).rar) 
 
 
 
@@ -130,5 +144,5 @@ It could be   D: ,  E:  ,  F: , etc..
 Unzip or extract the file using any .rar or .zip file extrator you can [download a free winrar here](https://www.win-rar.com/predownload.html?&L=0)
  
 
-- Download and copy the Auto Chemistry Analyzer [software] (Auto Chemistry Analyzer-210 (1) (1).rar) - Copy the software to the :D drive or the drive that is in th firewall whitelisted - Unzip the file and Run the software Unzip or extract the file using any .rar or .zip file extrator you can [download a free winrar here](https://www.win-rar.com/predownload.html?&L=0)
+- 
 
