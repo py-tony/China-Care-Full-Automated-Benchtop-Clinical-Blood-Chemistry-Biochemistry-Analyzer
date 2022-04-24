@@ -152,12 +152,85 @@ Congratulations! You've just made your computer ready for your Auto Biochemistry
 
 ### Setup and Run your first test
 
-Here we have a couple of things that we need to configure before running and printing our first test.
+Here we have a couple of things that we need to configure before running and printing our first test. Find the `Setting` Tab ![image](https://user-images.githubusercontent.com/55901714/164991014-835485ff-4f4e-4b32-a85c-fece393919e4.png) and enter the following basic informations:
 
-- Basic Information
- - Hospital Info
- - Department Info
- - Physician Info
+⚠️ Make sure you press the `Modify` button to activate the text field. ![image](https://user-images.githubusercontent.com/55901714/164991286-0b7ddedf-a965-4975-896f-bff894cdf370.png) Located at the bottom part of the screen.
+
+
+
+![image](https://user-images.githubusercontent.com/55901714/164991538-fdf97e97-83f4-44d3-a6a3-4a8488905c61.png)
+
+
+
+
+#### Hospital Information
+![image](https://user-images.githubusercontent.com/55901714/164991565-346893ca-95ca-41a7-8d07-7b02dd585da0.png)
+
+
+ * Hospital Info
+     * Enter basic information of your Hospital.
+ * Department Info
+     * Enter Basic Information of the related department example: Biochimie.
+ * Physician Info
+     * Enter Basic informatio about the Head Physician of the hospital.
+
+### User Management
+![image](https://user-images.githubusercontent.com/55901714/164992161-e62cfdf6-3705-4620-9381-602bf3022cfb.png)
+
+
+* Password Editor
+    * Here is where you get to modify the password of different Users.
+    * On the left you get to modify the password of the current user.
+    * On the right you get to change the current user (if you have multiple users registered.
+* User Management
+    * Here is where you get to register New Users. ⚠️ Make sure to press `New` on the bottom part of the screen to activate the text field ![image](https://user-images.githubusercontent.com/55901714/164992724-4fbd3a62-4f34-4c8c-bdc6-4acfc5a729af.png)
+* Permission
+    * Here is where you get to control what each registered User is allowed to do.
+    * By default the Administrator have the right to do anything on the app.
+    * If you want to experiment with the `Permission` feature, you need to Add an account of under `User Management`
+    * If an account is registered (other then the Administrator account), It will appear here (`Permission`) on the left in red.
+    * To modify the permission of an account or the task a particular user can perform on the App:
+        * Highlight the account on the left it should be highlighted in red.
+        * Navigate and get familiarised with different permissions.
+        ![image](https://user-images.githubusercontent.com/55901714/164993411-12e87f4b-0606-466b-bd26-fd063b78cdcc.png)
+* Workload Status
+    * Once you have some tests setup and they will appear here. for now let us skip this part.
+
+### Test Setup
+* This where you will configure the sequence of your tests. For now let us skip this part.
+
+
+### Setting the Printer
+
+* Here is where you get to check if your printer is connected and working.
+    * If your printer is connected and installed successfully, it will appear here under Current Printer.
+    * If your printer supports only A4 paper format, change the page sizes.
+        * Under Report Editor Locate Page Sizes, set it to A4 and `Save` the changes.
+         ![printting_setting](https://user-images.githubusercontent.com/55901714/164994409-ef9bdd45-6543-4fc3-ac54-5d87e300cac0.gif
+         
+## First Test
+Now that you've entered all the basic information and setup your printer, it's time to test if the equipement is working. First we need to enter some data and parameter to let the computer know what kind of test we want to do. For a demo we're going to use Glucose as our reagent for sugar level test.
+
+⚠️ *The data that we're going to use are only for testing purpose. This is by no mean a trusted configuration for Glucose test. Feel free to enter your own data if you know what you're doing. Otherwise, seek help from qualified Physician or Laboratory assistant to help you with the measurements and units for different tests.*
+
+### Reagent Parameter settings
+Navigate to the `Reagent` Tab on the top most part of your app. ![image](https://user-images.githubusercontent.com/55901714/164995230-d85ece6d-d4bf-48d7-a9a9-af16550d1816.png)
+
+Click on `New` and fill in the fields as shown bellow.
+
+![image](https://user-images.githubusercontent.com/55901714/164996970-862e3ed8-c938-4746-9aa0-864660257e78.png)
+
+### Calibration Setting
+
+Navigate to the `Calibration` Tab on the top most part of your app. ![image](https://user-images.githubusercontent.com/55901714/164997376-bccd8621-ba76-4599-8b01-18e2dae89424.png)
+Then go to `Calib Setup` ![image](https://user-images.githubusercontent.com/55901714/164997526-dee75891-99e0-4b73-b87f-22455b4ec983.png).
+
+On the left under `Calib Solution List`, click `New`, enter any number or test as identifier of the calibration and hit `Save`
+On your right under `Calib. Solution Concentrate` click `Modify` then double click on the concentrate field ![image](https://user-images.githubusercontent.com/55901714/164997745-6cfb19a5-db6b-4482-8667-aa7a742d7090.png)
+
+Demo:
+
+![calib_setup](https://user-images.githubusercontent.com/55901714/164997760-dbdb2743-8bbd-4d3d-87a6-506c8a4a1d65.gif)
 
 
 
