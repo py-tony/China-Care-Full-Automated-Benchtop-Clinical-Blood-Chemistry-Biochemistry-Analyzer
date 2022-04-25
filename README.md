@@ -1,45 +1,47 @@
 # Getting started with the Biochemistry Analyzer CCL-210 from China Care Medical 
 
-This is a guide to get started with the equipement. It also helps to ensure that the software and the equipment is working as expected. 
-In this tutorial you can expect a clear guide on how to:
+The following is a guide to getting started with the equipment. It also helps to ensure that the software and the equipment are working as expected. 
+In this tutorial, you can expect a step by step guide on how to:
 
 - Prepare your working environment 
 - Connect the equipment to your computer and other cables and pipes
 - Setting up your Windows system 
 - Installing the main Software and setting it up
-- Placing the Reagent and Sample on the wheel
+- Run and print the first Test
 
 
 
 | 🟥: Disclaimer          |
 |:---------------------------|
-| This post is not a User Manual Guide for Biochemistry Analyzer. But it can be used for first use or checking if the tool is working as expected. For a copy of the official manual guide please check if your local supplier or get a copy [here](https://github.com/py-tony/China-Care-Full-Automated-Benchtop-Clinical-Blood-Chemistry-Biochemistry-Analyzer-/blob/main/1582d062ab01d45b284ed9752829c434.pdf)   |
+| This post is not a User Manual Guide for Biochemistry Analyzer. But it can be used for first use or to check if the tool is working as expected. For a copy of the official manual guide, please check with your local supplier or get a copy [here](https://github.com/py-tony/China-Care-Full-Automated-Benchtop-Clinical-Blood-Chemistry-Biochemistry-Analyzer-/blob/main/1582d062ab01d45b284ed9752829c434.pdf)   |
 
 
 ## China Medical
 
-China care medical supply medical equipment, Lab equipment and veterinary Equipment in money countries. They aim to make quality medical tool accessible to everyone while saving their customer money and time. You can place an of any medical tool online ---> [order online](https://www.chinacaremedical.com/) or get in touch with an approved [local facilitor](https://py-tony.netlify.app/contact_china_care.html#gsc.tab=0).
+China Care Medical supplies medical, Lab, and veterinary Equipment in many countries. The company is committed to making quality medical tools more accessible to people while saving them time and money. Customers can order any (available) medical equipment online. ---> [order online](https://www.chinacaremedical.com/) or get in touch with an approved [local facilitor](https://py-tony.netlify.app/contact_china_care.html#gsc.tab=0).
 
-Today we're going to have a closer look at one of their equipement I had the privelege to install in the Republic Democratic of Congo called Biochemistry Analyzer.
+In this article, we'll take a closer look at the Biochemistry Analyzer CCL-210, one of the machines I had the privilege of installing in the Republic Democratic of Congo.
 
+We assume some computer literacy and familiarity with medical tools to follow this article, but the author will do his best to be helpful. When it comes to computer concepts or technical concepts, we will try to hold each other's hands and climb the mountain together. However, we won't be teaching how to use a computer or how to hold a mouse.
 
 ## What is a Biochemistry Analyzer
 
 
 ![image](https://user-images.githubusercontent.com/55901714/164881338-4753afc2-ad3c-4062-bd7f-63228912b30a.png)
 
+In simple terms the tools is designed to measure metabolites present in biological samples such as blood or urine.
 
 The tedious part about getting human blood or other body fluid samples for testing is the actual analysis of each sample to test for anomalies. Traditionally, these tests were done manually by a human technologist who carefully examined each sample for results. Over time, however, it became apparent that the task takes too much time and effort, not allowing more than a few samples to be tested and analyzed every day. That is where the Biochemistry Analyzer intervine.
 
 
-Also Known as a Full Automated Benchtop Clinical Blood Chemistry Biochemistry Analyzer, CCL-210, is an equipement used to measure the concentration of certain proteins, enzymes, electrolytes, metabolites, or even drugs in the provided samples of urine, blood, serum, plasma, or other body fluids. The machine consists of a tray where the samples are loaded to be tested. You can get a cotation or a fully live explanation of the product by a local representative [here](https://py-tony.netlify.app/contact_china_care.html#gsc.tab=0) or order directly online at [www.chinacaremedical.com](https://www.chinacaremedical.com/).
+Also Known as a Full Automated Benchtop Clinical Blood Chemistry Biochemistry Analyzer CCL-210, is a tool used to measure the concentration of certain proteins, enzymes, electrolytes, metabolites, or even drugs in the provided samples of urine, blood, serum, plasma, or other body fluids. The machine consists of a tray where the samples are loaded to be tested. To reduce human error, the tool is controlled by software installed on a computer. You can get a quottation or a fully live explanation of the product by a local representative [here](https://py-tony.netlify.app/contact_china_care.html#gsc.tab=0) or order directly online at [www.chinacaremedical.com](https://www.chinacaremedical.com/).
 
-If you're already have one and struggling with installations you can get in touch with a local technicnician by filling up this [form](https://py-tony.netlify.app/contact_china_care.html#gsc.tab=0) or just by following this handy how to guide.
+If you're already have one and struggling with installations, you can get in touch with a local technician by filling up this [form](https://py-tony.netlify.app/contact_china_care.html#gsc.tab=0) or just by following this handy how-to guide.
 
 
 ## Prepare your environment
 
-After buying your the Auto Biochemistry Analyzer you still need some other device and setup to get the tool working. 
+After buying your Full Auto Biochemistry Analyzer, you still need some other device and setup to get the tool working. 
 
 | Prerequisites          |
 |:---------------------------|
@@ -135,7 +137,20 @@ Demo:
 
 ## Installing the main Software and setting it up
 
-Make sure that all the cables are connected from and to the computer.
+
+
+Make sure that all the cables and pipes are connected from and to the computer.
+
+1. Computer has nine-pin serial port and is connected to the Machine 💯✔️
+2. The Biochemistry Analyzer has been turned on and The tempture has reached 37 degree 💯✔️
+3. Printer ordinary A4, A5 paper printers can be used Successfully connected and installed 💯✔️
+4. Pure water (Can be barreled pure water or pure water with pure water mechanism) 💯✔️
+5. A waste tank needs to be prepared and waste pipe connected successfully💯✔️
+6. Experimental equipment (pipette gun, bullet reservoir) 💯✔️
+7. Biochemical reagents on site (Biochemical reagents must be refrigerated at 2-8 degrees) 💯✔️
+
+
+
 Open the folder that you just Extract and double click on the file named `MainSoft_V9.2.0.7.exe` or `MainSoft_V9.2.0.7`.
 
 ![image](https://user-images.githubusercontent.com/55901714/164986193-f735edf9-6ab3-40c7-b070-63a00430ab2a.png)
@@ -259,20 +274,32 @@ Demo:
 ![sample_req](https://user-images.githubusercontent.com/55901714/164999317-3133c466-736b-42dc-a6db-45a7b7a96929.gif)
 
 
-### Run the test and print
+### Run the test and Print the Result
 
 Last but not least. We're going to Run and Print our first Test.
-Before we proceed let's first ensure that:
+Before we proceed let's do this boring but critical check:
+
 1. Computer has nine-pin serial port and is connected to the Machine 💯✔️
-2. Printer ordinary A4, A5 paper printers can be used Successfully connected and installed 💯✔️
-3. Pure water (Can be barreled pure water or pure water with pure water mechanism) 💯✔️
-4. A waste tank needs to be prepared and waste pipe connected successfully💯✔️
-5. Experimental equipment (pipette gun, bullet reservoir) 💯✔️
-6. Biochemical reagents on site (Biochemical reagents must be refrigerated at 2-8 degrees) 💯✔️
-7. The tempture has reached 37 degree 💯✔️
+2. The Biochemistry Analyzer has been turned on and The tempture has reached 37 degree 💯✔️
+3. Printer ordinary A4, A5 paper printers can be used Successfully connected and installed 💯✔️
+4. Pure water (Can be barreled pure water or pure water with pure water mechanism) 💯✔️
+5. A waste tank needs to be prepared and waste pipe connected successfully💯✔️
+6. Experimental equipment (pipette gun, bullet reservoir) 💯✔️
+7. Biochemical reagents on site (Biochemical reagents must be refrigerated at 2-8 degrees) 💯✔️
 
 
-Fill the Triangle shapped bottle with the reagent and place it on the wheel number1 as shown on the pic and place the sample tube or cup on the sample wheel as shown bellow.
+Fill the Triangle shapped bottle with reagent and place it on the wheel number1 as shown on the pic bellow and place the sample tube or cup on the sample wheel number1 as shown bellow.
 
 
 ![wheel_sample_placement](https://user-images.githubusercontent.com/55901714/165000481-7f25a96e-316a-4c42-a8df-090002a72050.jpg)
+
+#### Run
+
+Navigate to the `Run` ![image](https://user-images.githubusercontent.com/55901714/165001279-d8fd1993-3333-4d65-9820-1ff7c154f030.png) select our test under `Test Stand By` and run the test by pressing `Run` located and the bottom right most part of the app.
+
+
+#### Print
+Once the test has finished, Navigate to the `Results` Tab ![image](https://user-images.githubusercontent.com/55901714/165001563-25d743bc-053a-4d32-9480-c37b8620f3a2.png).
+Fill in the patient info, highlight the test under `Result Details` and print the test 
+
+
