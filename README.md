@@ -45,19 +45,20 @@ After buying your Full Auto Biochemistry Analyzer, you still need some other dev
 
 | Prerequisites          |
 |:---------------------------|
-| - The Auto Biochemistry Analyzer ready with it cables and pipes |
-| - Computer with windows 10 or higher version and 9 point plug (we recommend at least a desktop with i3 processor for a good experience)|
-| - A printer with A4 or A4 paper format |
-| - The software ready in your cd or on your computer (you can download one at the link provided below it the recommended option) |
-| - Download and install chinese simple language |
+1. Computer has nine-pin serial port and is connected to the Machine 💯✔️
+2. The Biochemistry Analyzer has been turned on and The tempture has reached 37 degree 💯✔️
+3. Printer ordinary A4, A5 paper printers can be used Successfully connected and installed 💯✔️
+4. Pure water (Can be barreled pure water or pure water with pure water mechanism) 💯✔️
+5. A waste tank needs to be prepared and waste pipe connected successfully💯✔️
+6. Experimental equipment (pipette gun, bullet reservoir) 💯✔️
+7. Biochemical reagents on site (Biochemical reagents must be refrigerated at 2-8 degrees) 💯✔️
 
-Download main software [here](Auto Chemistry Analyzer-210 (1) (1).rar)
 
 ## Connecting the Auto Analyzer machine to your computer
 
 https://user-images.githubusercontent.com/55901714/164883601-981ad10b-4503-4365-b261-74b651775aff.mp4
 
-Make sure that your computer has a 9 point plug port. We recommend that you do not connect to power source until all the set up is done.
+Make sure that your computer has a nine-pin serial port. We recommend that you do not connect to power source until all the cable connection step is done.
 
 ## Getting your System ready to install the software and run it
 
