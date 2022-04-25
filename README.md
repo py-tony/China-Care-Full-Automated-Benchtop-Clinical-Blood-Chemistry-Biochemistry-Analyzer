@@ -18,11 +18,11 @@ In this tutorial, you can expect a step by step guide on how to:
 
 ## China Medical
 
-China Care Medical supplies medical, Lab, and veterinary Equipment in many countries. The company is committed to making quality medical tools more accessible to people while saving them time and money. Customers can order any (available) medical equipment online. ---> [order online](https://www.chinacaremedical.com/) or get in touch with an approved [local facilitor](https://py-tony.netlify.app/contact_china_care.html#gsc.tab=0).
+China Care Medical supplies medical, Lab, and veterinary Equipment in many countries. The company is committed to making quality medical tools more accessible to people while saving them time and money. Customers can order any (available) medical equipment online. ---> [order online](https://www.chinacaremedical.com/) or get in touch with an approved [local facilitator](https://py-tony.netlify.app/contact_china_care.html#gsc.tab=0) for a free quotation.
 
 In this article, we'll take a closer look at the Biochemistry Analyzer CCL-210, one of the machines I had the privilege of installing in the Republic Democratic of Congo.
 
-We assume some computer literacy and familiarity with medical tools to follow this article, but the author will do his best to be helpful. When it comes to computer concepts or technical concepts, we will try to hold each other's hands and climb the mountain together. However, we won't be teaching how to use a computer or how to hold a mouse.
+We assume some computer literacy and familiarity with medical tools to follow this article, but the author will do his best to be helpful. When it comes to advanced computer concepts or technical concepts, we will try to hold each other's hands and climb the mountain together. However, we won't be teaching how to use a computer or how to hold a mouse.
 
 ## What is a Biochemistry Analyzer
 
@@ -34,14 +34,14 @@ In simple terms the tools is designed to measure metabolites present in biologic
 The tedious part about getting human blood or other body fluid samples for testing is the actual analysis of each sample to test for anomalies. Traditionally, these tests were done manually by a human technologist who carefully examined each sample for results. Over time, however, it became apparent that the task takes too much time and effort, not allowing more than a few samples to be tested and analyzed every day. That is where the Biochemistry Analyzer intervine.
 
 
-Also Known as a Full Automated Benchtop Clinical Blood Chemistry Biochemistry Analyzer CCL-210, is a tool used to measure the concentration of certain proteins, enzymes, electrolytes, metabolites, or even drugs in the provided samples of urine, blood, serum, plasma, or other body fluids. The machine consists of a tray where the samples are loaded to be tested. To reduce human error, the tool is controlled by software installed on a computer. You can get a quottation or a fully live explanation of the product by a local representative [here](https://py-tony.netlify.app/contact_china_care.html#gsc.tab=0) or order directly online at [www.chinacaremedical.com](https://www.chinacaremedical.com/).
+Also Known as a Full Automated Benchtop Clinical Blood Chemistry Biochemistry Analyzer CCL-210, is a tool used to measure the concentration of certain proteins, enzymes, electrolytes, metabolites, or even drugs in the provided samples of urine, blood, serum, plasma, or other body fluids. The machine consists of a tray where the samples are loaded to be tested. To reduce human error, the tool is controlled by a software installed on a computer. You can get a quottation or a fully live explanation of the product by a local representative [here](https://py-tony.netlify.app/contact_china_care.html#gsc.tab=0) or order directly online at [www.chinacaremedical.com](https://www.chinacaremedical.com/).
 
-If you're already have one and struggling with installations, you can get in touch with a local technician by filling up this [form](https://py-tony.netlify.app/contact_china_care.html#gsc.tab=0) or just by following this handy how-to guide.
+If you're already have one but struggling with installations, you can get in touch with a local technician by filling out this [form](https://py-tony.netlify.app/contact_china_care.html#gsc.tab=0) or just by following this handy how-to guide.
 
 
 ## Prepare your environment
 
-After buying your Full Auto Biochemistry Analyzer, you still need some other device and setup to get the tool working. 
+After buying your Full Auto Biochemistry Analyzer, you still need some other devices and setups to get the tool working. 
 
 | Prerequisites          |
 |:---------------------------|
@@ -58,7 +58,7 @@ After buying your Full Auto Biochemistry Analyzer, you still need some other dev
 
 https://user-images.githubusercontent.com/55901714/164883601-981ad10b-4503-4365-b261-74b651775aff.mp4
 
-Make sure that your computer has a nine-pin serial port. We recommend that you do not connect to power source until all the cable connection step is done.
+Make sure that your computer has a nine-pin serial port. We recommend that you do not connect to power source until all the cable connections are done.
 
 ## Getting your System ready to install the software and run it
 
@@ -72,18 +72,19 @@ Here we're going to setup our Windows system to make it ready for the Biochemist
 - Unzip the file and Run the software
 
 #### Create partition
-We recommend that you create a dedicated partition for this software because the software won't work if the drive is not in the firewall whitelist. You can deactivate the security of the system or put the system drive (C:) in the whitelist but that will make your system vulnerable to virus attacks and we do not recommend doing that.
 
+We recommend that you create a dedicated partition for this software. The software won't work if the drive is not in the firewall whitelist. You can deactivate the security of the system or put the system drive (C:) in the whitelist, but that will make your system vulnerable to virus attacks, and we do not recommend doing that.
 If you already have a D: drive skip this step. 
+
 
 ![image](https://user-images.githubusercontent.com/55901714/164978318-b4c44293-7a58-4c21-be1f-d3a626a2a8b9.png)
 
 
 
 
+If you do not have a partitioned drive, please watch the tutorial below on how to partition a C: drive and create a D: drive.
 
-If you do not have a partitioned drive, please watch the tutorial below on how to partition a :C drive and create a :D drive.
-
+Tutorial how to create partitions.
 [how to partition disk in windows 10](https://www.youtube.com/watch?v=wQQ-ohOdcZU)
 
 
@@ -91,34 +92,27 @@ If you do not have a partitioned drive, please watch the tutorial below on how t
 
 ### Add the D: or the partitioned drive to Windows Firewall whitelist 
 
-From your desktop in the windows search box type Windows security select the first result ----> virus & threat protection ---> Manage settings ----> Under `Exclusions` type Add or remove exclusions ---> (accept if prompt for admin permissio) ---> 'Add an exclusion` ---> `Folder` ---> Navigate to the drive (partitioned) select it and `select folder` to confirm the entry. 
+From your desktop in the Windows search box type Windows Security select the first result ![image](https://user-images.githubusercontent.com/55901714/165044425-9366448c-a6b2-4140-98e5-c84f52a44cbe.png) then go to ----> Virus & threat protection ---> Manage settings ----> Under `Exclusions` type Add or remove exclusions ---> (accept if prompt for admin permission) ---> 'Add an exclusion` ---> `Folder` ---> Navigate to the drive (partitioned) select it and `select folder` to confirm the entry. 
 
 Congratulations, you just made your drive vulnerable 😊 
 
 Demo:
 ![windows_whitelist](https://user-images.githubusercontent.com/55901714/164981728-9fd6cfbd-4149-41b8-9e39-7c94e64b4f6b.gif) 
 
-Your system might be different from the one in the above example, feel free to search on google for your particular system.
-
-From your desktop click on Start and 
-- Change the Current System Language to Chinese(simplified) and change the time zone
-- Download and copy the Auto Chemistry Analyzer [software] (Auto Chemistry Analyzer-210 (1) (1).rar) 
-- Copy the software to the :D drive or the drive that is in th firewall whitelisted
-- Unzip the file and Run the software
+Your system might be different from the one in the above example and other screenshots in this tutorial, feel free to search on Google for your particular Operating System.
 
 
 ### Change the Current System Local Language (Unicode) to Chinese(simplified) 
-- Why do we need to do this?
+
 Unicode is a character encoding standard, developed by the Unicode Consortium, which defines a set of letters, numbers, and symbols that represent almost all of the written languages in the world. Its success in unifying character sets has led to widespread use in the creation of software [source](https://www.digitalcitizen.life/changing-display-language-used-non-unicode-programs/).
 
+From your Destop search in the Windows search bar `Region` ----> Go to `Clock and Region` ----> Go to `Region` ---> navigate to `Administrator` Tab on the top most bar ---> Click on `Change System Locale` ---> Under `Current System Locale`, drop down the list and select `Chinese (Simplified, China)` Click `OK` and Restart your computer.
 
-Check out this [tutorial](https://www.tenforums.com/tutorials/132050-change-system-locale-windows-10-a.html#:~:text=The%20system%20locale%20controls%20the,that%20do%20not%20support%20Unicode.) for a step by step guide.
-
-
-From your Destop search in the search bar `control panel` ----> Go to `Clock and Region` ----> Go to `Region` ---> navigate to `Administrator` Tab on the top most bar ---> Click on `Change System Locale` ---> Under `Current System Locale`, drop down the list and select `Chinese (Simplified, China)` Click `OK` and Restart your computer.
+![region_unicode](https://user-images.githubusercontent.com/55901714/165049113-382d5a4e-92b6-4f18-9ac3-5fe6c1984ca8.gif)
 
 
-### Download and copy the Auto Chemistry Analyzer [software](Auto Chemistry Analyzer-210 (1) (1).rar) in the partitioned drive
+
+### Download and copy the Auto Chemistry Analyzer software in the partitioned drive
 
 Now we're almost there. We need now to put the software in the drive that we just prepared, Unzip it and Run the Program.
 
@@ -161,14 +155,15 @@ If you followed all the instructions above correctly the software should open up
 
 ![image](https://user-images.githubusercontent.com/55901714/164986311-1078ddd3-e3e3-4979-b6c1-56929603330f.png)
 
-Congratulations! You've just made your computer ready for your Auto Biochemistry Analyzer software.
+Congratulations! You've just made your Computer ready for your Auto Biochemistry Analyzer software.
 
 ![image](https://user-images.githubusercontent.com/55901714/164986510-e7bf167a-9982-4353-b121-b7fff033f57a.png)
 
 
 ### Setup and Run your first test
 
-Here we have a couple of things that we need to configure before running and printing our first test. Find the `Setting` Tab ![image](https://user-images.githubusercontent.com/55901714/164991014-835485ff-4f4e-4b32-a85c-fece393919e4.png) and enter the following basic informations:
+Here we have a couple of things that we need to configure before running and printing our first test. 
+Find the `Setting` Tab ![image](https://user-images.githubusercontent.com/55901714/164991014-835485ff-4f4e-4b32-a85c-fece393919e4.png) and enter the following basic informations:
 
 ⚠️ Make sure you press the `Modify` button to activate the text field. ![image](https://user-images.githubusercontent.com/55901714/164991286-0b7ddedf-a965-4975-896f-bff894cdf370.png) Located at the bottom part of the screen.
 
